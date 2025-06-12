@@ -1,0 +1,7 @@
+experiment/*
+transformers_cache/*
+dataset_files/*
+wandb/*
+*.slurm
+*.out
+*.err
